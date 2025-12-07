@@ -1,6 +1,7 @@
 
 # KERNEL Transform Your Use of AI
-   After tracking and analyzing over 1000 real work prompts, discovered thath sucessful prompts follow "six" consistent pattrns
+   After tracking and analyzing over 1000 real work prompts, discovered thath sucessful prompts follow "six" consistent patterns //
+   
 The Framework;
   K . Keep it simple
     -Bad: 500 words of context
@@ -36,7 +37,7 @@ The Framework;
     3- Constraints (parameters)
     4- Format (output)
 
-   Example
+   Example r/PromptEngineering/volodith
      Task: Pythone script to merge CSVs
      Input: Multiple CSVs, same colums
      Constraints: Panda only, <50 lines
